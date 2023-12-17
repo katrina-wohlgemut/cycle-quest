@@ -1,5 +1,5 @@
 # Cycle Quest
-Cycle Quest is a game that promotes menstrual education for young teens. This was created in collaboration for the 2023 TechNova hackathon.
+Cycle Quest is a game that promotes menstrual education for young teens. This was created for the 2023 TechNova hackathon in collaboration with three other University of Waterloo students.
 
 For more information, visit: https://devpost.com/software/cycle-quest
 
